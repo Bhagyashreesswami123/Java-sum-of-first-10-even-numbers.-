@@ -1,0 +1,1 @@
+# Java-sum-of-first-10-even-numbers.-
